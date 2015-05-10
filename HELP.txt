@@ -1,0 +1,46 @@
+                                    Buiiness_Companion
+
+Welcome to Business Companion v1.0 .Business companion is to facilitate your business domain providing a whole new dimension in 
+keeping your day to day business transaction records,orders & shipment records with image attachment feature.Your entries are 
+stored inside the database of the software which is not accessible through conventional file browsing system.Thus here all your 
+data is absolutely secured giving only you the accessibility while you are logged in with your account which must be password 
+protected.You can upload images from any location of your computer hard-drive using one click uploading.All the entries have 
+thier unique ID which is defined automatically,using which your further observation process would be served.For further
+information & consultance:prince_rmaan9@yahoo.com.Developer:Md.Armaan-Ul-Islam
+
+(If xampp control panel is installed begin from step 2)
+
+Step-1: Install Xampp to default location of your computer.
+
+Step-2: Once installed open xampp control panel.Check the boxes(Svc Apache & Svc MySql).Click OK 
+        whenever it asks for your permission.
+
+Step-3: Click Start button(Apache) & Start button(MySql).They would be showing Running status
+        (in green) when you are done with the previous instructions.
+
+Step-4: Copy 'buisness_companion' folder (the one with small'b') to the location:'C:\xampp\mysql\data\'.
+
+Step-5: Copy 'Business_companion' folder (the one with capital'B') to the location:'C:\xampp\htdocs\'.
+
+Step-6: Run using any browser you want.Just give the address:'http://localhost/Business_companion/'
+
+Questions may arise:
+
+1.What is 'Entry ID' & where can i find it?
+
+Ans:If you dont know the entry id,which is obvious as that is determined by default by Business Companion.But You can view the entry 
+Id using the view option where you can put the reference id you remember,It will inform you the entry Id as well as other informations.
+
+2.What to do if the image doesn't works correctly?
+
+Ans:Use 'Free Picture Resizer' to resize the image dimension.Open the image you want to store,then click the resize icon.Uncheck lock 
+aspect ratio.Fix the new size as 620 in width and 400 in height.Click ok & save as a new image.Use this new image to store.
+
+####IMPORTANT#####
+If you are thinking about changing your operating system,obviously you wouldn't want to erase all the data/entries stored.Then you
+must copy the folder 'C:\xampp\mysql\data\buisness_companion' to your backup and replace the previous one.I would suggest to do so
+often cause you never know when your computer/OS is going to crush.
+##################   
+
+##################
+HELPLINE:+8801674092684     
